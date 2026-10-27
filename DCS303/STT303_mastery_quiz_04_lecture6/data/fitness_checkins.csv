@@ -1,0 +1,13 @@
+session_id,activity,location,duration_min,steps,water_l
+2001,Run,Outdoors,35,5200,0.8
+2002,Strength,Gym,50,1800,1.2
+2003,Yoga,Home,,2200,0.6
+2004,Run,Outdoors,45,6100,
+2005,Strength,Gym,60,2000,1.5
+2006,Yoga,Home,30,1500,0.7
+2007,Strength,Gym,55,7000,1.1
+2008,Cycle,Outdoors,40,2500,0.9
+2009,Run,Outdoors,70,8000,1.4
+2010,Cycle,Gym,,3200,0.8
+2011,Yoga,Home,25,1200,
+2012,Strength,Gym,65,7500,1.3
